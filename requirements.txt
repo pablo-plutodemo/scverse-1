@@ -1,0 +1,21 @@
+# Frozen from the environment used to run notebooks/wat_depot_analysis.ipynb (Python 3.11.16, macOS arm64)
+anndata==0.12.19
+scanpy==1.11.5
+pydeseq2==0.5.4
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+matplotlib==3.11.2
+seaborn==0.13.2
+adjustText==1.4.0
+statsmodels==0.15.0
+scikit-learn==1.9.1
+numba==0.68.0
+umap-learn==0.5.12
+h5py==3.16.0
+requests==2.34.2
+# notebook execution
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.4.0
+jupyter_client==8.10.0
